@@ -1,0 +1,16 @@
+{
+    "name": "taiwo/wallet",
+    "description": "wallet as service",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Taiwo",
+        "email": "taiwo@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Taiwo\\": "Taiwo"
+        }
+    }
+}
